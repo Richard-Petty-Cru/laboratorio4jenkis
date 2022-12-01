@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-12-01 03:49:29.442 UTC</timestamp>
+  <md5sum>82689b143255d0526dc39e44254d0ab8</md5sum>
+  <fileName>Credential id=debina_cred name=root/****** (debina_cred)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1214.v1de940103927">
+      <timestamp>1669866860347</timestamp>
+      <nodeName>debian_server1</nodeName>
+      <timestamp0>1669866740653</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

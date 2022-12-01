@@ -1,0 +1,9 @@
+Started by user [8mha:////4AISG5STFDUzuIF3BRKLtZc9HTVHVhRJ9NmBVW4TAsOaAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/listar_contenido
+[listar_contenido] $ /bin/sh -xe /tmp/jenkins5545490809883506174.sh
++ ls -alth
+total 8.0K
+drwxr-xr-x 2 jenkins jenkins 4.0K Dec  1 03:34 .
+drwxr-xr-x 3 jenkins jenkins 4.0K Dec  1 03:34 ..
+Finished: SUCCESS

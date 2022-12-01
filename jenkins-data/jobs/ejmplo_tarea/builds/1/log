@@ -1,0 +1,9 @@
+Started by user [8mha:////4AISG5STFDUzuIF3BRKLtZc9HTVHVhRJ9NmBVW4TAsOaAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building remotely on [8mha:////4EuL/fJ1rU+fp2Fj3O5qcMu8wJ0AAWf6z5h0/ZmVZxbYAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYJ/eT83ILSktQi/ZTUpMzEvPji1KKy1CJDAEFUSIPNAAAA[0mdebian_server1 in workspace /home/richard/practica/jenkins/workspace/ejmplo_tarea
+[ejmplo_tarea] $ /bin/sh -xe /tmp/jenkins17973881752586615079.sh
++ docker ps
+CONTAINER ID   IMAGE                    COMMAND                  CREATED          STATUS          PORTS                                                  NAMES
+486d73e55057   jenkins/jenkins:latest   "/usr/bin/tini -- /u…"   39 minutes ago   Up 34 minutes   0.0.0.0:8080->8080/tcp, :::8080->8080/tcp, 50000/tcp   nexuspractica-jenkins-1
+8e37dba028db   proyectomodulo5-web      "python manage.py ru…"   24 hours ago     Up 2 hours      0.0.0.0:8000->8000/tcp, :::8000->8000/tcp              proyectomodulo5-web-1
+Finished: SUCCESS
